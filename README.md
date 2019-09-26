@@ -28,3 +28,4 @@ if the number of users grow and we can add numeric value and special character w
 12. Submmit a url to get a shorten Url (you will recive 5 character tokeb)
 13. Access thhe shorten url by pasting that token after http://127.0.0.1:8000/
 
+Can Access Api implementation performing CRUD operations using url http://127.0.0.1:8000/api/url/
